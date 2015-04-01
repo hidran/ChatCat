@@ -1,0 +1,9 @@
+{
+  "dbUrl":"mongodb://localhost:27017/test",
+  "sessionKey":"secret",
+ "fb":{
+   "appId":"652319324800305",
+   "appSecret":"5d69d21bc98125edd6124305e29c3d7e",
+   "callback":"http://localhost:8000/auth/facebook/callback"
+ }
+}
